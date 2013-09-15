@@ -1,35 +1,19 @@
 Votre Contrat
 ================
 
-Votre contrat est conclu avec Nithou, situé à 1030 Schaerbeek pour un travail de design (logo, identité, site internet, communication … ).
+Votre contrat est conclu avec Simon Vandereecken, situé à 1030 Schaerbeek pour un travail de design (logo, identité, site internet, communication … ). Ce présent contrat définit l'accord, le prix & l'étendue du projet conclu entre les deux partis.
 
-L'accord, le prix, l'étendue du projet sont définis dans le contrat qui vous a été remis et accepté par les deux partis.
-
-Votre contrat vous a été transmis par e-mail et reste à tout moment consultable sur http://clients.nithou.net.
+Le présent contrat vous a été transmis par e-mail et reste à tout moment consultable sur [notre espace client](http://clients.nithou.net). 
 
 # Nos engagements communs
 
-Vous avez pleine autorité pour conclure le présent contrat, en votre nom, celui de votre compagnie ou organisation. Vous fournirez l'intégralité du contenu nécessaire pour réaliser le travail, en temps et heure et dans le format demandé.
+**Vous** avez pleine autorité pour conclure le présent contrat, en votre nom, celui de votre compagnie ou organisation. Vous fournirez l'intégralité du contenu nécessaire pour réaliser le travail, en temps et heure et dans le format demandé.
 
-Vous consulterez les propositions envoyées et fournirez un retour ainsi qu'une validation quand nécessaire et dans un laps de temps raisonnable, ce afin de pouvoir garantir la deadline fixée entre les deux partis. Vous acceptez aussi de payer en temps et en heure selon la date de paiement mentionnée dans votre contrat.
+**Vous** consulterez les propositions envoyées et fournirez un retour ainsi qu'une validation quand nécessaire et dans un laps de temps raisonnable, ce afin de pouvoir garantir la deadline fixée entre les deux partis. Vous acceptez aussi de payer en temps et en heure selon la date de paiement mentionnée dans votre contrat.
 
-Nous mettrons toute notre expérience dans la réalisation de vore demande, ce de façon professionnelle et dans le temps imparti.
+**Je** mettrai toute mon expérience dans la réalisation de votre demande, ce de façon professionnelle et dans le temps imparti.
 
-Nous vous garantissons un travail original et exempt de tout plagiat. Nous ferons tout notre possible pour atteindre la deadline fixée entre nous, et maintiendrons une confidentialité sur tous documents que vous nous fournirez.
-
-# Travail d'identité
-
-Nous réaliserons votre travail d'identité (logo, carte de visite, leaflet, poster, papier en tête, enveloppe, …) comme défini dans le contrat conclu entre les deux partis. Nous vous fournirons les documents finaux aux formats Adobe standards (Illustrator / Indesign) de dernière version.
-
-Sur demande, il est possible de fournir des fichiers compatibles avec des versions antérieures.
-
-Durant notre collaboration, nous vous donnerons accès au travail en cours de réalisation afin que vous puissiez faire les remarques & retours nécessaires pour l'avancement.
-
-# Livraison du contenu
-
-Avant tout début de travail d'identité, nous attendons de vous que vous nous fournissiez tout le contenu nécessaire (et final) à la réalisation de ce travail. Tout retard dans la livraison de ce contenu entrainera un retard dans la date finale de livraison.
-
-Si vous avez besoin des services d'un copywriter, un autre devis vous sera fourni afin de payer les frais de notre partenaire.
+**Je** vous garantis un travail original et exempt de tout plagiat. Je ferai tout mon possible pour atteindre la deadline fixée entre nous, et maintiendrai une confidentialité sur tous documents que vous nous fournirez.
 
 # Web Design
 
