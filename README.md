@@ -1,10 +1,5 @@
-Default-Contract
+Votre Contrat
 ================
-
-Vous trouverez ci-dessous l'ensemble des conditions afférentes au contrat conclu entre votre entreprise (vous ci dessous) et nos services (Nithou, nous ci-dessous).
-
-
-# Votre Contrat
 
 Votre contrat est conclu avec Nithou, situé à 1030 Schaerbeek pour un travail de design (logo, identité, site internet, communication … ).
 
