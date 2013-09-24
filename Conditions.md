@@ -51,7 +51,7 @@ Le design de votre site est aussi testé sur une tablette iPad Retina (3e géné
 
 Dans le cas où une compatibilité avec des navigateurs plus anciens ou un OS mobile particulier devrait être pris en charge, des frais s'appliqueront à votre projet, cette compatibilité impliquant une charge de travail importante.
 
-### Test utilisateurs
+### Tests utilisateurs
 
 Dans le cas de grands projets, des tests d'utilisateurs pourront être menés à l'aide de différentes méthodes : A/B testing, tests sur utilisateurs, ... Les résultats de ces tests vous seront fournis et discutés avec vous afin de voir la direction à prendre et l'influence de ces tests sur votre projet.
 
