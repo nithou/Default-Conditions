@@ -3,7 +3,7 @@ Votre Contrat
 
 Votre contrat est conclu avec Simon Vandereecken, situé à B-1030 Schaerbeek pour un travail de design (logo, identité, site internet, communication … ). Ce présent contrat définit l'accord, le prix & l'étendue du projet conclu entre les deux partis.
 
-Les présentes conditions vous ont été transmises par e-mail. Les dernières versions de ces conditions sont à tout moment accessible [via ce lien](https://github.com/nithou/Default-Contract/blob/master/Webdesign.md). 
+Les présentes conditions vous ont été transmises par e-mail. Les dernières versions de ces conditions sont à tout moment accessible [via ce lien](https://github.com/nithou/Default-Conditions/blob/master/Webdesign.md). 
 
 # Nos engagements communs
 
