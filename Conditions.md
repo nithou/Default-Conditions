@@ -1,7 +1,7 @@
 Conditions générales
 ====================
 
-**Date de révision :** 24 septembre 2013
+**Date de révision :** 25 septembre 2013
 
 Votre contrat est conclu avec Simon Vandereecken, situé à B-1030 Schaerbeek (Belgique) pour un travail de design (logo, identité, site internet, communication … ). Votre contrat définit l'accord, le prix & l'étendue du projet conclu entre les deux partis, les présentes conditions s'appliquent dès la signature de votre contrat.
 
@@ -95,6 +95,12 @@ Je ne peux être tenu responsable de la qualité du travail fourni par tout autr
 
 L'expérience m'a appris que les contrats à prix fixes n'étaient bénéfiques pour aucun des deux partis, limitant les idées explorées. Je désire pas vous limiter dans vos choix. Ainsi, le prix conclu dans votre contrat est basé sur le temps  estimé afin d'accomplir l'ensemble des tâches que vous avez demandé. Dès lors, si vous désirez modifier quoi que ce soit ou si vous changez d'avis, je n'aurai aucun problème à vous fournir un autre devis pour ces modifications.
 
+## Deadline
+
+Dans le cas où une deadline est définie lors de l'établissement du contrat, tout sera fait pour respecter celle-ci. Cependant, tout retard dans la validation, livraison de contenu, ... pourra mener au report de cette deadline.
+
+Afin de me consacrer au maximum à mes clients, je limite le nombre de contrats que je prends sur une base mensuelle, tout dépassement des deadline impactant ainsi sur mes autres clients, une compensation financière pourra être demandée en cas de retard de livraison du matériel nécessaire à la réalisation du projet.
+
 ## Arrêt du contrat
 
 Si, à n'importe quelle étape, vous n'êtes pas satisfait de la direction prise, le présent contrat pourra être annulé. Cependant, je conserverai dès lors l'intégralité des droits sur le travail réalisé, afin de pouvoir l'utiliser, le montrer ou le revendre à ma discrétion.
@@ -102,6 +108,10 @@ Si, à n'importe quelle étape, vous n'êtes pas satisfait de la direction prise
 Vous acceptez de payer pour le travail effectué et validé avant cette décision, sauf accord contraire conclu entre les deux partis.
 
 De même, en cas de complication inutile du contrat : aller-retours inutiles, indécision chronique, insatisfaction face au résultat atteint, ... je me réserve le droit d'interrompre le contrat. En cas d'annulation de ma part, l'intégralité de la somme versée vous sera restituée.
+
+## En cas de problèmes
+
+En cas de problème avec votre site, vous pouvez me contacter sur l'adresse simon@nithou.net, où tout sera fait pour vous répondre endéans les 48h.
 
 ## Légal
 
