@@ -3,27 +3,29 @@ Conditions générales
 
 **Date de révision :** 25 septembre 2013
 
-Votre contrat est conclu avec Simon Vandereecken, situé à B-1030 Schaerbeek (Belgique) pour un travail de design (logo, identité, site internet, communication … ). Votre contrat définit l'accord, le prix & l'étendue du projet conclu entre les deux partis, les présentes conditions s'appliquent dès la signature de votre contrat.
+Votre contrat est conclu avec Simon Vandereecken (Nithou), situé à B-1030 Schaerbeek (Belgique) pour un travail de design (logo, identité, site internet, communication … ). Il définit le prix & l'étendue du projet et marque l'accord conclu entre les deux partis, les présentes conditions s'appliquent dès la signature de votre contrat.
 
 # Résumé
 
-Je ferai toujours mon possible pour remplir vos demandes et attentes, mais il est cependant important de s'entendre sur quelques conditions, sur **qui doit faire quoi quand**, et que faire au cas où quelque chose ne se déroule pas bien. Dans ces conditions, j'ai tenté de décrire chaque élément de la façon la plus claire et la plus compréhensible possible, afin de n'embrouiller personne.
+Je ferai toujours mon possible pour remplir vos demandes et attentes, il est cependant important de s'entendre sur quelques conditions : **qui doit faire quoi quand** et que faire au cas où quelque chose ne se déroule pas bien. Dans ces conditions, j'ai tenté de décrire ci-dessous chaque élément de la façon la plus claire et la plus compréhensible possible, afin de n'embrouiller personne.
 
 # A quoi s'engagent les deux parties
 
-**Vous** avez pleine autorité pour conclure le présent contrat, en votre nom, celui de votre compagnie ou organisation. Les **deadlines fonctionnant dans les deux sens**, vous fournirez l'intégralité du contenu nécessaire pour réaliser le travail, en temps et heure et dans le format demandé. Vous consulterez les propositions envoyées et fournirez un retour ainsi qu'une validation quand nécessaire et dans un laps de temps raisonnable. Vous acceptez aussi de payer en temps et en heure selon les termes présents dans ces conditions.
+**Vous** avez pleine autorité pour conclure le présent contrat, en votre nom, celui de votre compagnie ou organisation. Les deadlines fonctionnant dans les deux sens, vous fournirez l'intégralité du contenu nécessaire pour réaliser le travail, en temps et heure et dans le format demandé. Vous consulterez les propositions envoyées et fournirez un retour ainsi qu'une validation si nécessaire et dans un laps de temps raisonnable. Vous acceptez aussi de payer en temps et en heure selon les termes présents dans ces conditions.
 
 **Je** mettrai toute mon expérience dans la réalisation de votre demande, ce de façon professionnelle et dans le temps imparti. Je vous garantis un travail original et exempt de tout plagiat. Je ferai tout mon possible pour atteindre la deadline fixée entre nous, et maintiendrai une confidentialité sur tous documents que vous me fournirez.
 
 # Allons y !
 
-Selon le type de travail, les étapes diffèrent et toutes ne sont pas forcément obligatoires.
+Selon le type de travail, les étapes diffèrent et toutes ne sont pas forcément obligatoires. Ces étapes sont détaillées ci-dessous de manière non exhaustive.
 
 Durant notre collaboration, je vous donnerai accès au travail en cours de réalisation afin que vous puissiez faire les remarques & retours nécessaires pour l'avancement.
 
 ## Recherches & direction artistique
 
-La première étape de mon travail consistera à me renseigner sur le domaine de votre projet, afin de pouvoir revenir vers vous avec un design statique représentant l'esprit de votre projet (appelé [Style Tiles](http://styletil.es/) dans le cas d'un site internet, mood board dans le cas d'un travail imprimé).
+La première étape de mon travail consistera à me renseigner sur le domaine de votre projet, afin de pouvoir revenir vers vous avec une représentation statique de l'esprit de votre projet (appelé [Style Tiles](http://styletil.es/) dans le cas d'un site internet, mood board dans le cas d'un travail imprimé).
+
+Ces recherches permettent d'établir l'esprit de votre projet ainsi que la direction artistique à prendre.
 
 ## Sites Internet
 
@@ -33,7 +35,7 @@ Dans le cas où je ne prends en charge que le développement visuel de votre sit
 
 ### HTML, CSS & Javascript
 
-Dans le cas de la réalisation complète de votre site, une première maquette sera réalisée au format HTML5 & CSS 2.1 + 3, incluant au besoin une librairie Javascript, afin de pouvoir montrer pleinement le fonctionnement visuel de votre site internet. 
+Dans le cas de la réalisation complète de votre site, une première maquette sera réalisée au format HTML5 & CSS 2.1 + 3, incluant au besoin une librairie Javascript, afin de pouvoir montrer pleinement le fonctionnement visuel de votre site internet. Ces maquettes dynamiques seront préférées à des éléments statiques, car permettant de montrer des choses telles que l’interaction, les transitions mais aussi l'adaptation du design sur différentes tailles d'écran.
 
 ### Gestion de Contenu
 
@@ -49,17 +51,17 @@ Mon travail est testé sur les **dernières versions** des navigateurs majeurs :
 
 Le design de votre site est aussi testé sur une tablette iPad Retina (3e génération), un Nexus 4 (Android), ainsi qu'un iPhone 4S (Retina), sur les dernières versions des systèmes d'exploitation.
 
-Dans le cas où une compatibilité avec des navigateurs plus anciens ou un OS mobile particulier devrait être pris en charge, des frais s'appliqueront à votre projet, cette compatibilité impliquant une charge de travail importante.
+Dans le cas où une **compatibilité avec des navigateurs plus anciens** ou un OS mobile particulier devrait être pris en charge, des frais s'appliqueront à votre projet, cette compatibilité impliquant une charge de travail importante.
 
 ### Tests utilisateurs
 
-Dans le cas de grands projets, des tests d'utilisateurs pourront être menés à l'aide de différentes méthodes : A/B testing, tests sur utilisateurs, ... Les résultats de ces tests vous seront fournis et discutés avec vous afin de voir la direction à prendre et l'influence de ces tests sur votre projet.
+Dans le cas de grands projets, des tests d'utilisateurs pourront être menés à l'aide de différentes méthodes : A/B testing, tests sur utilisateurs, ... Les résultats de ces tests vous seront fournis et discutés avec vous afin de voir la direction à prendre et l'influence sur votre projet.
 
 ## Travail d'identité
 
 Je réaliserai votre travail d'identité (logo, carte de visite, leaflet, poster, papier en tête, enveloppe, …) comme défini dans le contrat conclu entre les deux partis. Je vous fournirai les documents finaux aux formats Adobe standards (Illustrator / Indesign) de dernière version.
 
-Sur demande, il est possible de fournir des fichiers compatibles avec des versions antérieures.
+Sur demande, il sera éventuellement possible de fournir des fichiers compatibles avec des versions antérieures (dans la mesure du possible).
 
 ## Votre contenu
 
@@ -69,19 +71,19 @@ Vous garantissez que tout élément fourni (texte, visuels, …) vous appartient
 
 ### Livraison du contenu & modifications
 
-Une fois votre contenu fourni, il sera intégré tel quel. Toute modification ultérieure (sauf erreur de frappe et ce jusqu'à la mise en place de votre système de gestion de conteu) devra être réalisée par vos soins, ou, sur base d'un autre devis, par les miens, ce afin d'éviter une perte importante de temps en aller-retours indécis.
+Une fois votre contenu fourni, il sera intégré tel quel par mes soins (ou les vôtres si décidé en ce sens). Toute modification ultérieure (sauf erreur de frappe et ce jusqu'à la mise en place de votre système de gestion de conteu) devra être réalisée par vos soins, ou, sur base d'un autre devis, par les miens, ce afin d'éviter une perte importante de temps dû à la livraison d'un contenu non définitif.
 
 ### Photographies & éléments
 
-J'attends de vous que vous me fournissiez **tout document graphique dans un format modifiable & vectoriel**. Les photographies doivent être fournies en **haute résolution**.
+J'attends de vous que vous me fournissiez **tout document graphique dans un format modifiable & vectoriel**. Les photographies se doivent d'être fournies en **haute résolution**.
 
-Si vous désirez acheter des photographies en ligne, nous pouvons travailler ensemble à la recherche de celles-ci, et prendre en charge leur achat (qui sera dès lors inclut dans votre facture finale).
+Si vous désirez acheter des photographies en ligne, je peux travailler à la recherche de celles-ci, et prendre en charge leur achat (qui sera dès lors inclut dans votre facture finale).
 
 ## Support Technique
 
-L'hébergement de votre site peut être effectué par vos soins, ou je peux m'en charger, ce qui sera inclus dans votre facture ou au sein d'une facture séparée (et cyclique).
+L'hébergement de votre site peut être effectué par mes soins, ce qui sera inclus dans votre facture ou au sein d'une facture séparée (et cyclique). Dans le cas où vous fournissez un hébergement, un surcoût pourra vous être facturé dans le cas de complications dû à cette hébergeur.
 
-Cependant n'étant pas un hébergeur, même si je peux assurer la configuration des divers composantes (hébergement, e-mail, …), je ne peux garantir la constante accessibilité de votre site, ce point relevant de l'hébergeur final. Je mettrai cependant tout en oeuvre pour vous conseiller un hébergeur répondant le plus parfaitement à vos critères.
+Cependant n'étant pas un hébergeur, même si je peux assurer la configuration des divers composantes (hébergement, e-mail, …), je ne peux garantir la constante accessibilité de votre site, ce point relevant de l'hébergeur final. Je mettrai cependant tout en oeuvre pour vous conseiller un **hébergeur répondant le plus parfaitement à vos critères**.
 
 ## Délais d'impressions & qualité
 
@@ -89,7 +91,7 @@ Je mettrai tout en oeuvre pour **sélectionner le meilleur imprimeur** pour votr
 
 ## Prestataires extérieurs
 
-Je ne peux être tenu responsable de la qualité du travail fourni par tout autre prestataire extérieur, ni par tout retard engendré par ces prestataires le cas échéant. Je mettrai cependant tout en oeuvre pour sélectionner les meilleurs partenaires possibles.
+Je ne peux être tenu responsable de la qualité du travail fourni par tout autre prestataire extérieur, ni par tout retard engendré par ces prestataires le cas échéant. Je mettrai cependant tout en oeuvre pour sélectionner **les meilleurs partenaires possibles**.
 
 ## Changements & Révisions
 
@@ -99,7 +101,7 @@ L'expérience m'a appris que les contrats à prix fixes n'étaient bénéfiques 
 
 Dans le cas où une deadline est définie lors de l'établissement du contrat, tout sera fait pour respecter celle-ci. Cependant, tout retard dans la validation, livraison de contenu, ... pourra mener au report de cette deadline.
 
-Afin de me consacrer au maximum à mes clients, je limite le nombre de contrats que je prends sur une base mensuelle, tout dépassement des deadline impactant ainsi sur mes autres clients, une compensation financière pourra être demandée en cas de retard de livraison du matériel nécessaire à la réalisation du projet.
+Afin de me consacrer au maximum à mes clients, je limite le nombre de contrats que je prends sur une base mensuelle, tout dépassement des deadline impactant sur mes autres clients, une compensation financière pourra être demandée en cas de retard de livraison du matériel nécessaire à la réalisation du projet.
 
 ## Arrêt du contrat
 
@@ -119,7 +121,7 @@ Je ne peux garantir que mon travail sera sans erreur, et ainsi ne peux être ten
 
 ## Fichiers Sources
 
-Je vous fournirai tous les fichiers sources finaux du travail réalisé. Vous devrez les sauver ou je pourrai vous en fournir une copie physique au besoin, qui sera inclue dans votre contrat.
+Je vous fournirai tous les fichiers sources finaux du travail réalisé. Vous devrez les sauver ou je pourrai vous en fournir une copie physique au besoin, qui sera inclue dans votre facture.
 
 Je ne suis par contre en aucun cas tenu de conserver une copie du travail effectué, même si tout sera fait pour le garder pendant minimum un an.
 
@@ -133,17 +135,19 @@ Les différents travaux non sélectionnés restent ma propriété, les droits qu
 
 Comme j'aime avoir la possibilité de montrer mon travail et de partager ce que j'ai appris avec vous, je me réserve le droit d'intégrer votre projet (ainsi que le processus créatif et décisionnel) à mon portfolio ainsi que de pouvoir en parler au sein de sites, magazines, livres ou lors d'éventuelles conférences ou cours.
 
-Dès lors je conserve les droits moraux (droit de divulgation, droit de paternité, droit de respect de l'oeuvre, droit de retrait et de repentir (moyennant indemnisation le cas échéant)) relatifs au travail effectué, sauf accord différent auquel cas un autre devis vous sera fourni.
+Dès lors je conserve les droits moraux (droit de divulgation, droit de paternité, droit de respect de l'oeuvre, droit de retrait et de repentir (moyennant indemnisation le cas échéant)) relatifs au travail effectué, sauf accord différent auquel cas un autre devis vous sera fourni pour la cessation de ces droits.
 
 Le document de cession des droits qui vous sera fourni comprendra dès lors les droits cédés, la durée de cette cession, son étendue, son étendue géographie et la rémunération de ces droits.
 
 ## Paiements
 
-Je suis certain que vous comprenez l'importance d'un paiement en temps et en heure. Donc, afin de maintenir une bonne relation de travail, vous garantissez de faire les paiements en temps et heure (**maximum 30 jours** après l'émission de votre facture).
+Je suis certain que vous comprenez l'importance d'un paiement en temps et en heure. Donc, afin de maintenir une bonne relation de travail, vous garantissez de faire les paiements en temps et heure ( **maximum 30 jours** après l'émission de votre facture).
+
+Dans le cas de **retards de paiement** , une majoration de 15% du montant total dû sera appliquée par mois de retard. Les droits cédés ne seront considérés comme acquis qu'au règlement complet de votre facture, toute utilisation du matériel fourni alors que celle ci n'a pas été acquittée pourra être dès lors considérée comme un délit aux yeux de la loi.
 
 ### Acompte
 
-Le paiement convenu est divisé en deux parties de cinquante pour-cent de la somme totale. La première partie devra être versée lors de la signature du contrat et avant de commencer le travail demandé. Dès lors, tout retard dans ce premier paiement entrainera un retard dans la livraison du travail. A votre demande, une facture pour cet acompte pourra vous être fournie.
+Le paiement convenu est divisé en deux parties de cinquante pour-cent de la somme totale. La première partie devra être versée lors de la signature du contrat et avant de commencer le travail demandé. Dès lors, tout retard dans ce premier paiement entraînera un retard dans la livraison du travail. A votre demande, une facture pour cet acompte pourra vous être fournie.
 
 ### Restant dû
 
@@ -154,6 +158,10 @@ La partie restante devra être payée avant que je ne vous remette les fichiers 
 L'hébergement de sites, les noms de domaines, certaines technologies utilisées doivent être payés mensuellement ou annuellement. Je m'engage dès lors à vous fournir une facture annuelle pour le maintien de ces services.
 
 Au cas où vous désirez interrompre ces services, je vous demanderai de me prévenir 3 mois en avance afin de pouvoir faire le nécessaire. Dans le cas d'un paiement annuel, si vous demandez un arrêt après la date de renouvellement, l'année reste évidemment due.
+
+## Signature du devis ou accord par acompte
+
+Tout devis signé par les deux partis est considéré comme un contrat. A défaut de signature, le paiement de l'acompte fera foi et marquera votre accord par rapport au devis présenté ainsi qu'à ces conditions générales.
 
 ## Confidentialité
 
