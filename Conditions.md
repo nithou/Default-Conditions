@@ -139,6 +139,10 @@ Dès lors je conserve les droits moraux (droit de divulgation, droit de paternit
 
 Le document de cession des droits qui vous sera fourni comprendra dès lors les droits cédés, la durée de cette cession, son étendue, son étendue géographie et la rémunération de ces droits.
 
+## Copyright
+
+Est réservée la possibilité d’inclure dans la réalisation une mention commerciale indiquant clairement ma contribution, sous la forme d’une mention du type « Designed by Nithou » pointant vers mon portfolio. Le commanditaire s’engage à ne pas s’y opposer, et à ne jamais supprimer ces informations.
+
 ## Paiements
 
 Je suis certain que vous comprenez l'importance d'un paiement en temps et en heure. Donc, afin de maintenir une bonne relation de travail, vous garantissez de faire les paiements en temps et heure ( **maximum 30 jours** après l'émission de votre facture).
