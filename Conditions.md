@@ -1,7 +1,7 @@
 Conditions générales
 ====================
 
-**Date de révision :** 30 septembre 2013
+**Date de révision :** 06 octobre 2013
 
 Votre contrat est conclu avec Simon Vandereecken (Nithou), situé à B-1030 Schaerbeek (Belgique) pour un travail de design (logo, identité, site internet, communication … ). Il définit le prix & l'étendue du projet et marque l'accord conclu entre les deux partis, les présentes conditions s'appliquent dès la signature de votre contrat.
 
