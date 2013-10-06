@@ -21,7 +21,7 @@ Selon le type de travail, les étapes diffèrent et toutes ne sont pas forcémen
 
 Durant notre collaboration, je vous donnerai accès au travail en cours de réalisation afin que vous puissiez faire les remarques & retours nécessaires pour l'avancement.
 
-## 1 Recherches & direction artistique
+## 1. Recherches & direction artistique
 
 La première étape de mon travail consistera à me renseigner sur le domaine de votre projet, afin de pouvoir revenir vers vous avec une représentation statique de l'esprit de votre projet (appelé [Style Tiles](http://styletil.es/) dans le cas d'un site internet, mood board dans le cas d'un travail imprimé).
 
