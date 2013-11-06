@@ -1,7 +1,7 @@
 Conditions générales
 ====================
 
-**Date de révision :** 06 octobre 2013
+**Date de révision :** 06 novembre 2013
 
 Votre contrat est conclu avec Simon Vandereecken (Nithou), situé à B-1030 Schaerbeek (Belgique) pour un travail de design (logo, identité, site internet, communication … ). Il définit le prix & l'étendue du projet et marque l'accord conclu entre les deux partis, les présentes conditions s'appliquent dès la signature de votre contrat.
 
@@ -71,7 +71,9 @@ Vous garantissez que tout élément fourni (texte, visuels, …) vous appartient
 
 ### 4.1 Livraison du contenu & modifications
 
-Une fois votre contenu fourni, il sera intégré tel quel par mes soins (ou les vôtres si décidé en ce sens). Toute modification ultérieure (sauf erreur de frappe et ce jusqu'à la mise en place de votre système de gestion de conteu) devra être réalisée par vos soins, ou, sur base d'un autre devis, par les miens, ce afin d'éviter une perte importante de temps dû à la livraison d'un contenu non définitif.
+Une fois votre contenu fourni, il sera intégré tel quel par mes soins (ou les vôtres si décidé en ce sens). Toute modification ultérieure (sauf erreur de frappe et ce jusqu'à la mise en place de votre système de gestion de contenu) devra être réalisée par vos soins, ou, sur base d'un autre devis, par les miens, ce afin d'éviter une perte importante de temps dû à la livraison d'un contenu non définitif.
+
+Dans le cas où le contenu ne serait pas fourni en temps et en heure, un texte de remplissage (appelé Lorem Ipsum) sera mis en place sur votre site web (ou autre). A partir de ce moment, le contrat sera considéré comme terminé et le solde devra être payé, l'injection du contenu devant être faite par après de votre côté, à votre aise et selon vos impératifs. Dans le cas où la création de ce contenu poserait problème, je reste à votre entière disposition pour établir un devis portant sur la création de ce contenu.
 
 ### 4.2 Photographies & éléments
 
@@ -157,11 +159,19 @@ Le paiement convenu est divisé en deux parties de cinquante pour-cent de la som
 
 La partie restante devra être payée avant que je ne vous remette les fichiers finaux que vous avez approuvés. Tant que le paiement final n'est pas fait, ces fichiers et les droits afférents restent ma propriété, et toute mise en ligne éventuelle est mise en attente.
 
+Le restant dû devra être versé maximum 90 jours après le début des travaux, afin d'éviter de trainer inutilement en longueur le contrat consentit entre les deux parties. 
+
 ### 16.3 Paiements cycliques
 
 L'hébergement de sites, les noms de domaines, certaines technologies utilisées doivent être payés mensuellement ou annuellement. Je m'engage dès lors à vous fournir une facture annuelle pour le maintien de ces services.
 
 Au cas où vous désirez interrompre ces services, je vous demanderai de me prévenir 3 mois en avance afin de pouvoir faire le nécessaire. Dans le cas d'un paiement annuel, si vous demandez un arrêt après la date de renouvellement, l'année reste évidemment due.
+
+### 16.4 Clôture du contrat en cas de non-réponse
+
+Dans le cas où, malgré de multiples prises de contact, vous ne répondriez pas aux demandes permettant de faire avancer le contrat pendant plus de 30 jours, le contrat sera considéré comme terminé en l'état et devra être payé dans son entièreté.
+
+La reprise du travail sur ce contrat donnera lieu à l'établissement d'un nouveau contrat (sur base d'un nouveau devis) entre les deux partis.
 
 ## 17. Signature du devis ou accord par acompte
 
